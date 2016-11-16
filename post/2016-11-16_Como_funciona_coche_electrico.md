@@ -1,5 +1,5 @@
 ---
-title: Plantilla
+title: Cómo funciona un coche eléctrico
 layout: post
 published: false
 ---
